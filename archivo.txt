@@ -1,2 +1,4 @@
 este es mi archivo inicial
 trabajo en equipo, estudiante A
+
+Línea añadida en local en la tarea.
